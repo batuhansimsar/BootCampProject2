@@ -1,0 +1,11 @@
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\bin\Debug\net8.0\BootcampProject.Business.deps.json
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\bin\Debug\net8.0\BootcampProject.Business.dll
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\bin\Debug\net8.0\BootcampProject.Business.pdb
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\BootcampProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\BootcampProject.Business.AssemblyInfoInputs.cache
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\BootcampProject.Business.AssemblyInfo.cs
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\BootcampProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\BootcampProject.Business.dll
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\refint\BootcampProject.Business.dll
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\BootcampProject.Business.pdb
+C:\Users\batuhan\Desktop\BootcampProject\BootcampProject.Business\obj\Debug\net8.0\ref\BootcampProject.Business.dll
